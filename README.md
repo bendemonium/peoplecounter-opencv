@@ -1,4 +1,4 @@
-# peoplecounter-opencv
+# People Counter using OpenCV
 
 libararies needed: opencv-python , imutils, numpy, argparse
 
@@ -9,3 +9,9 @@ python main.py -c True
 
 for video:
 python main.py -v 'path_name'
+
+# Running Instructions
+
+# References
+
+
