@@ -4,7 +4,7 @@ People counters are employed pretty much everywhere to gauge the number of peopl
 
 This is a direction sensitive people counter which tracks the number of people moving in and out of said space. It is a direct application of OpenCV and adopts pre-trained machine-learning models.
 
-![image](https://user-images.githubusercontent.com/77619512/126186041-8b53faea-592b-4f7f-85e4-82de8a628963.png)
+![image](https://user-images.githubusercontent.com/77619512/126186041-8b53faea-592b-4f7f-85e4-82de8a628963.png =500x500)
 
 This project is based on the people counter by PyImageSearch University, with a couple of changes.
 
