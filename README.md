@@ -23,7 +23,7 @@ MORE OPTIONS:
 --input : Optional input video file path. If no path is specified, your webcam will be utilized. <br />
 --output : Optional output video path. If no path is specified, a video will not be recorded. <br />
 --confidence : With a default value of 0.4 , this is the minimum probability threshold which helps to filter out weak detections. <br />
---skip-frames : The number of frames to skip before running our DNN detector again on the tracked object. <br />
+
 
 # References
 
