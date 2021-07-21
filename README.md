@@ -1,6 +1,6 @@
 # People Counter using OpenCV
 
-People counters are employed pretty much everywhere to gauge the number of people in a given space, for business statisics or emergency security measures. <br />
+People counters are employed pretty much everywhere to gauge the number of people in a given space, for business statistics or emergency security measures. <br />
 
 This is a direction sensitive people counter which tracks the number of people moving in and out of said space. It is a direct application of OpenCV and adopts pre-trained machine-learning models. <br />
 
